@@ -1,0 +1,1 @@
+bin\php\php.exe bin\compile.php --out pocketmine.phar
